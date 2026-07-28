@@ -1,6 +1,6 @@
 # 🌪️ Natural Disaster Risk Analysis Dashboard
 
-> **A Python + PostgreSQL + Power BI catastrophe risk dashboard built on 70,049+ real FEMA disaster declarations — processing and mapping wildfire, hurricane, earthquake, flood, and storm events across US states and regions to identify high-risk catastrophe zones.**
+> **A Python + PostgreSQL + Power BI catastrophe risk dashboard built on 70,049+ real FEMA disaster declarations processing and mapping wildfire, hurricane, earthquake, flood, and storm events across US states and regions to identify high-risk catastrophe zones.**
 
 ---
 
@@ -210,4 +210,4 @@ requests
 
 **Jean Pierre Idi**
 M.S. Business Informatics — Northern Kentucky University (2025)
-📧 idijeanpierre7@gmail.com | 🔗 github.com/jeanpierreidi1
+📧 jeanpierreidi1@gmail.com | 🔗 github.com/jeanpierreidi1
