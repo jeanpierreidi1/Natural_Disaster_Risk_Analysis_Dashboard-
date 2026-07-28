@@ -1,6 +1,6 @@
 # 🌪️ Natural Disaster Risk Analysis Dashboard
 
-> **A Python + PostgreSQL + Power BI catastrophe risk dashboard built on 65,000+ real FEMA disaster declarations — processing and mapping wildfire, hurricane, earthquake, flood, and storm events across US states and regions to identify high-risk catastrophe zones.**
+> **A Python + PostgreSQL + Power BI catastrophe risk dashboard built on 70,049+ real FEMA disaster declarations — processing and mapping wildfire, hurricane, earthquake, flood, and storm events across US states and regions to identify high-risk catastrophe zones.**
 
 ---
 
